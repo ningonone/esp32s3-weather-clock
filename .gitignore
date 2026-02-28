@@ -1,0 +1,30 @@
+# ESP-IDF Build directory
+build/
+
+# ESP-IDF Configuration files
+sdkconfig
+sdkconfig.old
+
+# Components managed by the IDF Component Manager
+managed_components/
+dependencies.lock
+
+# IDE specific files
+.cache/
+.vscode/
+.idea/
+cmake-build-*/
+*.swp
+
+# Python artifacts
+*.pyc
+__pycache__/
+.env
+venv/
+
+# macOS artifacts
+.DS_Store
+
+# Temporary files
+*~
+*.bak
