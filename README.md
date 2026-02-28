@@ -1,10 +1,10 @@
 # ESP32 LVGL 天气时钟 (LVGL Weather Station)
 
-<p align="center">
-  <img src="demo.jpg" alt="效果展示 (UI Demo)" width="600"/>
-</p>
-
 基于 ESP-IDF 框架和 LVGL 图形库实现的一款拥有精美深色现代界面的 ESP32-S3 天气和时钟设备。
+
+<p align="center">
+  <img src="demo.png" alt="效果展示 (UI Demo)" width="600"/>
+</p>
 
 ## 🎯 核心功能
 
